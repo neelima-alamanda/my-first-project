@@ -1,4 +1,1 @@
-Hello Git
-This is my second update
-testing status
-This is feature 1 work
+This line is from conflict branch

@@ -1,1 +1,1 @@
-This line is from main branch
+Resolved: both changes kept
